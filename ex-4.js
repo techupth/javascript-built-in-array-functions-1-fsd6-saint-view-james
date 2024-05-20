@@ -5,9 +5,8 @@ const todos = [
   { topic: "Relax", completed: false },
   { topic: "Clean the room", completed: true },
 ];
-
+// Start coding here
 function getCompletedTodo(todos) {
-  // Start coding here
   return todos.completed === true;
 }
 const todosFilter = todos.filter(getCompletedTodo);

@@ -1,7 +1,6 @@
 let words = ["apple", "cat", "dog", "elephant"];
-
+// Start coding here
 function get5CharWords(words) {
-  // Start coding here
   return words.length >= 5;
 }
 

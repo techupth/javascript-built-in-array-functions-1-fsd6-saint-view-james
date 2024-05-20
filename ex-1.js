@@ -1,7 +1,6 @@
 let words = ["hello", "world"];
-
+// Start coding here
 function getWordLengths(words) {
-  // Start coding here
   console.log(words);
   return words.length;
 }
